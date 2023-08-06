@@ -1,0 +1,15 @@
+2023-08-06 05:27:58.456699 - Initialized conversion of CBT597
+2023-08-06 05:27:58.542753 - Received CBT.V505.FILE597.PDS from FILE597.XMI 
+2023-08-06 05:27:58.544960 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:27:58.545983 - Found $$INDEX.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$$INDEX
+2023-08-06 05:27:58.547004 - Found $$NOTE0.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$$NOTE0
+2023-08-06 05:27:58.547876 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:27:58.548781 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$$NOTE2
+2023-08-06 05:27:58.549657 - Found $$README.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$$README
+2023-08-06 05:27:58.550783 - Found $COMMAND.jcl (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$COMMAND
+2023-08-06 05:27:58.551776 - Found $MPFCMDS.jcl (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$MPFCMDS
+2023-08-06 05:27:58.552731 - Found $MPFPROC.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/$MPFPROC
+2023-08-06 05:27:58.553682 - Found @FILE597.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/@FILE597
+2023-08-06 05:27:58.554592 - Found IEE043I.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/IEE043I
+2023-08-06 05:27:58.555455 - Found IEF176I.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/IEF176I
+2023-08-06 05:27:58.556289 - Found IFB080E.txt (text/plain) in CBT.V505.FILE597.PDS, moved to PDS/IFB080E
